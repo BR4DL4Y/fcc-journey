@@ -4,7 +4,7 @@
 </p>
 
 > *"No one has stood on the top of the world... From now on, **I alone will stand at the top.**"* > 
-> — **Hadō #99: Goryūtennakatsu**
+> — **Hadō #99: Goryūtenmetsu**
 
 Hello! This repository is my personal learning space where I will store all the projects, practices, and exercises I complete while learning on **freeCodeCamp**.
 
