@@ -27,3 +27,15 @@ To learn web development from scratch, practice every day, and build a solid fou
 ### 3. Personal Favorite Characters Ranking 🌟
 * **Description:** A top-15 character ranking page built with strict semantic HTML5, focused on web structure, accessibility (`aria-label`), and performance (`loading="lazy"`).
 * **Live Demo:** [View Ranking Page](https://br4dl4y.github.io/fcc-journey/)
+
+---
+
+## Idioma / Language
+Originalmente hablo español, pero escribo en inglés porque es el estándar de la industria y me gusta practicarlo. No tengas ningún miedo de contactarme. **De los errores se aprende.**
+
+## Tech & Tools
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
