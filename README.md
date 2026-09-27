@@ -56,3 +56,12 @@ To build a strong foundation in web development, practice every single day, and 
 ## 🌎 Idioma / Language
 
 Originalmente hablo español, pero redacto la documentación en inglés para ir practicando el idioma estándar de la programación. No tengas ningún miedo de darme sugerencias o hablarme. **De los errores se aprende.**
+
+---
+
+##  Contact
+
+If you want to reach out, share feedback, or just chat about code:
+
+* **GitHub:** [@BR4DL4Y](https://github.com/BR4DL4Y)
+* **Email:** [thebrox21@gmail.com](mailto:thebrox21@gmail.com)
