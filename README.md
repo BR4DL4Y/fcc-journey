@@ -39,10 +39,11 @@ To build a strong foundation in web development, practice every single day, and 
 | **☕ Coffee Shop Menu** | My first steps with CSS (margins, padding, font styling, IDs & classes). | [View Project](https://br4dl4y.github.io/fcc-journey/Coffee%20Shop/) |
 | **🎬 Multimedia Player** | Working with native HTML media tags (`<audio>`, `<video>`) and basic attributes. | [View Project](https://br4dl4y.github.io/fcc-journey/Multimedia-player/) |
 | **🌟 Character Ranking** | Top-15 ranking built with strict semantic HTML5 (`<ol>`, `<article>`, `<figure>`), accessibility (`aria-label`), and performance (`loading="lazy"`). | [View Project](https://br4dl4y.github.io/fcc-journey/) |
+| **🪪 Business Card** | Building a personal card layout using CSS Box Model, custom margins, padding, and clean typography. | [View Project](https://br4dl4y.github.io/fcc-journey/business-card/) |
 
 ---
 
-## 📊 My Learning Checklist
+## My Learning Checklist
 
 - [x] Basic HTML & Semantic Tags
 - [x] HTML Audio & Video
@@ -53,13 +54,13 @@ To build a strong foundation in web development, practice every single day, and 
 
 ---
 
-## 🌎 Idioma / Language
+## Idioma / Language
 
 Originalmente hablo español, pero redacto la documentación en inglés para ir practicando el idioma estándar de la programación. No tengas ningún miedo de darme sugerencias o hablarme. **De los errores se aprende.**
 
 ---
 
-##  Contact
+## Contact
 
 If you want to reach out, share feedback, or just chat about code:
 
