@@ -1,29 +1,24 @@
-/* Quita el subrayado */
+
 a {
   text-decoration: none;
 }
 
-/* Cambia el color de los enlaces no visitados */
 a:link {
   color: blue;
 }
 
-/*Cambia el color del enlace una vez visitado */
 a:visited {
   color: purple;
 }
 
-/* Cambia el color al pasar el cursor */
 a:hover {
   color: red;
 }
 
-/* Cambia el color al hacer clic */
 a:active {
   color: green;
 }
 
-/* Agrega contorno al enfocar */
 a:focus {
   outline: 2px solid black;
 }
