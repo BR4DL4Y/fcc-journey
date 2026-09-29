@@ -1,6 +1,9 @@
-
 a {
+  display: inline-block;
   text-decoration: none;
+  padding: 5px 10px;
+  margin-top: 5px;
+  margin-bottom: 10px;
 }
 
 a:link {
@@ -22,3 +25,13 @@ a:active {
 a:focus {
   outline: 2px solid black;
 }
+li, ul{
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  list-style-position: inside;
+  margin-bottom: 5px;
+}
+.sub-item {
+  margin-top: 10px;
+}
+
