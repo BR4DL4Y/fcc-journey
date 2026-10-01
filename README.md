@@ -40,7 +40,7 @@ To build a strong foundation in web development, practice every single day, and 
 | **🎬 Multimedia Player** | Working with native HTML media tags (`<audio>`, `<video>`) and basic attributes. | [View Project](https://br4dl4y.github.io/fcc-journey/Multimedia-player/) |
 | **🌟 Character Ranking** | Top-15 ranking built with strict semantic HTML5 (`<ol>`, `<article>`, `<figure>`), accessibility (`aria-label`), and performance (`loading="lazy"`). | [View Project](https://br4dl4y.github.io/fcc-journey/) |
 | **🪪 Business Card** | Building a personal card layout using CSS Box Model, custom margins, padding, and clean typography. | [View Project](https://br4dl4y.github.io/fcc-journey/business-card/) |
-| **📰 Blog Post Card** | Designing a responsive blog card component focused on CSS styling, typography hierarchy, image alignment, and card structure. | [View Project](https://br4dl4y.github.io/fcc-journey/blog-post-card/) |
+| **📰 Blog Post Card** | Practiced background gradients, Flexbox centering on `body`, card layout with rounded borders, and pseudo-classes (`:hover`). | [View Project](https://br4dl4y.github.io/fcc-journey/blog-post-card/) |
 
 ---
 
