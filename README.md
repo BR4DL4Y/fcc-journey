@@ -36,8 +36,8 @@ To build a strong foundation in web development, practice every single day, and 
 
 | Project | What I Learned / Practiced | Demo |
 |---------|----------------------------|------|
-| **☕ Coffee Shop Menu** | My first steps with CSS (margins, padding, font styling, IDs & classes). | [View Project](https://br4dl4y.github.io/fcc-journey/Coffee%20Shop/) |
-| **🎬 Multimedia Player** | Working with native HTML media tags (`<audio>`, `<video>`) and basic attributes. | [View Project](https://br4dl4y.github.io/fcc-journey/Multimedia-player/) |
+| **☕ Coffee Shop Menu** | My first steps with CSS (margins, padding, font styling, IDs & classes). | [View Project](https://br4dl4y.github.io/fcc-journey/coffee-shop/) |
+| **🎬 Multimedia Player** | Working with native HTML media tags (`<audio>`, `<video>`) and basic attributes. | [View Project](https://br4dl4y.github.io/fcc-journey/multimedia-player/) |
 | **🌟 Character Ranking** | Top-15 ranking built with strict semantic HTML5 (`<ol>`, `<article>`, `<figure>`), accessibility (`aria-label`), and performance (`loading="lazy"`). | [View Project](https://br4dl4y.github.io/fcc-journey/) |
 | **🪪 Business Card** | Building a personal card layout using CSS Box Model, custom margins, padding, and clean typography. | [View Project](https://br4dl4y.github.io/fcc-journey/business-card/) |
 | **📰 Blog Post Card** | Practiced background gradients, Flexbox centering on `body`, card layout with rounded borders, and pseudo-classes (`:hover`). | [View Project](https://br4dl4y.github.io/fcc-journey/blog-post-card/) |
