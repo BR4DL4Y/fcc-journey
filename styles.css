@@ -117,3 +117,29 @@ audio {
   text-shadow: 0 0 8px #ff0033;
 }
 /* hayabusa's card end */
+/* Revenants card */ 
+.revenant {
+  background: linear-gradient(180deg, #180507 0%, #0a0a0a 100%);
+  border: 1px solid #6b0f1a;
+  box-shadow: 0 0 12px rgba(228, 55, 2, 0.77);
+}
+.revenant h2 {
+  color: orangered;
+  background-image: linear-gradient(to right, #ff4500, #8b0000);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  text-shadow: 0 0 10px rgba(255, 69, 0, 0.3);
+}
+
+.revenant img {
+  width: 100%;
+  height: 250px; 
+  object-fit: cover;
+  object-position: center 5%; 
+  border: 2px solid orangered;
+}
+.rev {
+  font-size: larger;
+
+}
