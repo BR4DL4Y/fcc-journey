@@ -80,6 +80,8 @@ audio {
 .hayabusa {
   color: rgb(255, 0, 0);
   background: linear-gradient(135deg, #2b0404, #0d0203);
+  border: 2px solid #ac0829;
+  box-shadow: 0 0 10px #ac0829;
 }
 
 .hayabusa h2 {
@@ -96,17 +98,16 @@ audio {
 }
 
 .hayabusa blockquote {
-  background-color: #1a0508;
   padding: 12px;
   border-radius: 8px;
   font-style: italic;
   text-align: center;
-
-
   background-image: linear-gradient(to right, #ffffff, #ff0033);
   -webkit-background-clip: text; 
   background-clip: text;
   color: transparent;
+  line-height: 1.5;
+  font-size: 17px;
 }
 
 .blood {
@@ -130,6 +131,7 @@ audio {
   background-clip: text;
   color: transparent;
   text-shadow: 0 0 10px rgba(255, 69, 0, 0.3);
+  font-size: 45px;
 }
 
 .revenant img {
@@ -137,9 +139,43 @@ audio {
   height: 250px; 
   object-fit: cover;
   object-position: center 5%; 
-  border: 2px solid orangered;
+  border: 2px solid rgba(130, 51, 23, 0.884);
 }
 .rev {
-  font-size: larger;
+    color: rgb(224, 88, 9);
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 5px 3px;
+    text-shadow: 
+      0 5px 15px rgba(139, 0, 0, 0.8),
+      0 0px 20px rgba(255, 215, 0, 0.6);
+}
+.revenant blockquote {
+  text-align: center;
+  font-size: 19px;
+  padding: 8px;
+  border-radius: 9px;
+  font-style: italic;
+  background-image: linear-gradient(to right, #ff4d4d, #ff1a1a);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  line-height: 1.4;
+}
+/*revenat's card end*/
+/*Ori's card*/
+.ori {
+  
+}
 
+.ori h2 {
+ 
+}
+
+.ori img {
+  
+}
+
+.helped {
+  
 }
