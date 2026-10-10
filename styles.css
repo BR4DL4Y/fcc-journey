@@ -32,6 +32,7 @@ p {
   line-height: 1.3;
   color: #ffffff;
   font-weight: 200;
+  letter-spacing: 1px;
 }
 
 audio {
@@ -62,6 +63,20 @@ audio {
   width: 420px;
   border: 3px solid #334155;
   text-align: left;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.card:hover {
+  transform: translateY(-5px);
+}
+.card img {
+  width: 100%;             
+  max-width: 300px;        
+  height: 250px;           
+  object-fit: cover;       
+  object-position: center 5%;
+  display: block;
+  margin: 0 auto 20px auto;
+  border-radius: 10px;
 }
 
 /* 
@@ -78,6 +93,7 @@ audio {
   text-shadow: 0 0 8px red;
   font-size: 38px;
 }
+.hayabusa img { border: 2px solid #ac0829; }
 
 .hayabusa blockquote {
   padding: 12px;
@@ -99,7 +115,11 @@ audio {
   padding: 3px 6px;
   text-shadow: 0 0 8px #ff0033;
 }
+.hayabusa:hover {
+  box-shadow: 0 0 20px #ff0033, 0 0 30px rgba(255, 0, 51, 0.6);
+}
 /* hayabusa's card end */
+
 /* Revenants card */ 
 .revenant {
   background: linear-gradient(180deg, #180507 0%, #0a0a0a 100%);
@@ -115,6 +135,8 @@ audio {
   text-shadow: 0 0 10px rgba(255, 69, 0, 0.3);
   font-size: 45px;
 }
+
+.revenant img { border: 2px solid rgba(130, 51, 23, 0.884); }
 
 .rev {
     color: rgb(224, 88, 9);
@@ -137,7 +159,11 @@ audio {
   color: transparent;
   line-height: 1.4;
 }
+.revenant:hover {
+  box-shadow: 0 0 20px #ff4500, 0 0 35px rgba(228, 55, 2, 0.8);
+}
 /*revenat's card end*/
+
 /*Ori's card*/
 .ori {
   background: linear-gradient(to right, #09131d 0%, #0d233a 100%);
@@ -150,23 +176,8 @@ audio {
   color: #fffefe;
   text-shadow: 0 0 15px rgba(0, 240, 255, 0.8);
 }
-/*global img styles */
-.hayabusa img,
-.revenant img,
-.ori img {
-  width: 100%;             
-  max-width: 300px;        
-  height: 250px;           
-  object-fit: cover;       
-  object-position: center 5%;
-  display: block;
-  margin: 0 auto 20px auto;
-  border-radius: 10px;
-}
-.hayabusa img { border: 2px solid #ac0829; }
-.revenant img { border: 2px solid rgba(130, 51, 23, 0.884); }
+
 .ori img { border: 2px solid #00f0ff; }
-/* ends here */
 
 .helped {
   font-weight: normal;  
@@ -175,4 +186,54 @@ audio {
   text-shadow: 0 0 6px rgba(0, 240, 255, 0.6); 
   padding: 2px;
 }
+.ori:hover {
+  box-shadow: 0 0 25px rgba(0, 240, 255, 0.8);
+}
 /*Ori's card end*/
+
+/*arthurs card*/ 
+
+.arthur-leywin {
+  background: linear-gradient(250deg, #160826, #0a0412);
+  border: 2px solid #a855f7;
+  box-shadow: 0 0 10px rgba(168, 85, 247, 0.6);
+}
+.arthur-leywin h2 {
+  font-size: 40px;
+  background-image: linear-gradient(to right, #ffd700, #a855f7);
+ -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  filter: drop-shadow(0 0 10px rgba(168, 85, 247, 0.6));
+}
+
+.arthur-leywin img {
+  border: 3px solid transparent;
+  background: linear-gradient(#160826, #160826) padding-box,
+              linear-gradient(180deg, #f59e0b, #a855f7) border-box;
+  border-radius: 10px;
+  object-position: center 50%;
+}
+
+.highlight {
+  font-weight: normal;
+  color: #a855f7;
+  line-height: 1.5;
+  text-shadow: 0 0 8px rgba(168, 85, 247, 0.6);
+  padding: 2px;
+}
+.arthur-leywin blockquote {
+  padding: 12px; 
+  border-radius: 8px; font-style: italic;
+  text-align: center; 
+  background-image: linear-gradient(to right, #ffd700, #a855f7); 
+  -webkit-background-clip: text; 
+  background-clip: text; 
+  color: transparent; 
+  line-height: 1.5; 
+  font-size: 17px;
+}
+.arthur-leywin:hover {
+  box-shadow: 0 0 20px rgba(168, 85, 247, 0.9), 0 0 35px rgba(245, 158, 11, 0.5);
+}
+/*arthurs card end */
