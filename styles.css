@@ -283,4 +283,53 @@ audio {
 .mark:hover {
   box-shadow: 0 0 20px rgb(59, 131, 246), 0 0 35px rgb(255, 217, 0);
 }
-/*marks card end */
+/*Marks end*/
+/*batmans card */
+.batman {
+  background: linear-gradient(135deg, #0a0a0c 0%, #030305 100%);
+  border: 2px solid #334155;
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.08), inset 0 0 20px rgba(0, 0, 0, 0.9);
+}
+
+.batman h2 {
+  font-size: 40px;
+  background-image: linear-gradient(to right, #000000, #ffffff);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  text-shadow: 0 0 12px rgba(138, 132, 132, 0.275);
+}
+
+.batman img {
+  border: 3px solid transparent;
+  background: linear-gradient(#050507, #050507) padding-box, 
+              linear-gradient(180deg, #f8fafc7f, #475569) border-box;
+  border-radius: 10px;
+  object-position: 60% center;
+}
+
+.lonely {
+  font-weight: normal;
+  color: #f1f5f9;
+  line-height: 1.5;
+  text-shadow: 0 0 8px rgba(104, 96, 96, 0.5);
+  padding: 2px;
+}
+
+.batman blockquote {
+  padding: 12px; 
+  border-radius: 8px; 
+  font-style: italic;
+  text-align: center; 
+  background-image: linear-gradient(to right, #ffffff, #cbd5e1); 
+  -webkit-background-clip: text; 
+  background-clip: text; 
+  color: transparent; 
+  line-height: 1.5; 
+  font-size: 17px;
+}
+
+.batman:hover {
+  box-shadow: 0 0 25px rgba(0, 0, 0, 0.2), 0 0 40px rgba(0, 0, 0, 0.3);
+}
+/*batmans card end*/  
