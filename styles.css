@@ -284,7 +284,7 @@ audio {
   box-shadow: 0 0 20px rgb(59, 131, 246), 0 0 35px rgb(255, 217, 0);
 }
 /*Marks end*/
-/*batmans card */
+
 .batman {
   background: linear-gradient(135deg, #0a0a0c 0%, #030305 100%);
   border: 2px solid #334155;
@@ -332,4 +332,58 @@ audio {
 .batman:hover {
   box-shadow: 0 0 25px rgba(0, 0, 0, 0.2), 0 0 40px rgba(0, 0, 0, 0.3);
 }
-/*batmans card end*/  
+/* batmans card end */
+
+/*Walters card */ 
+
+.walter {
+  background: linear-gradient(180deg, #092c24 0%, #030a08 100%);
+  border: 2px solid #37ff00;
+  box-shadow: 0 0 15px rgba(55, 255, 0, 0.4);
+}
+
+.walter h2 {
+  font-size: 40px;
+  background-image: linear-gradient(180deg, #ffffff 0%, #37ff00 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  font-weight: 400;
+  filter: drop-shadow(0 0 8px rgba(55, 255, 0, 0.5));
+  line-height: 1.2;
+}
+
+.walter img {
+  border: 2px solid #3f9d16;
+  object-position: 35% center;
+}
+
+.walter blockquote {
+  padding: 8px;
+  margin: 10px auto;
+  font-style: italic;
+  font-size: 20px;
+  font-weight: 200;
+  line-height: 1.4;
+  background-image: linear-gradient(to right, #ffffff, #37ff00);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  text-align: center;
+  filter: drop-shadow(0 0 6px rgba(55, 255, 0, 0.4));
+}
+
+.walter:hover {
+  box-shadow: 0 0 25px rgb(1, 213, 255), 0 0 40px rgba(1, 255, 9, 0.805);
+}
+
+.arrogant {
+  font-weight: 200;
+  color: #0bbf14;
+  line-height: 1.1;
+  text-shadow: 0 0 8px rgb(164, 174, 17);
+  padding: 1px;
+}
+
+
+/* Walters card end */ 
