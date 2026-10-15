@@ -5,8 +5,6 @@ A clean, responsive, and modern form built using pure **HTML5** and **CSS3**. Th
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
-
 ## About The Project
 
 This is a simple teacher conference scheduling form created to practice form structuring, styling, and modern CSS pseudoclasses.
