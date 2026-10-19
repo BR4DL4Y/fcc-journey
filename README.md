@@ -43,6 +43,7 @@ To build a strong foundation in web development, practice every single day, and 
 | **📰 Blog Post Card** | Practiced background gradients, Flexbox centering on `body`, card layout with rounded borders, and pseudo-classes (`:hover`). | [View Project](https://br4dl4y.github.io/fcc-journey/blog-post-card/) |
 | **🎉 Greeting Card** | Explored pseudo-elements (`::before`, `::after`), advanced pseudo-classes (`:target`, `:focus`, `:active`), CSS transforms, and smooth transitions. | [View Project](https://br4dl4y.github.io/fcc-journey/greeting-card/) |
 | **📝 Teacher Conference Form** | Building structured HTML forms, styling fieldsets/inputs, leveraging the `:not()` pseudo-class for clean selectors, and creating custom radio buttons with pseudo-elements. | [View Project](https://br4dl4y.github.io/fcc-journey/teacher-conference-form/) |
+| **🎨 Colored Markers** | Mastered color theory in code by mixing colors and utilizing RGB, RGBA, and HSL values along with custom box shadows. | [View Project](https://br4dl4y.github.io/fcc-journey/colored-markers/) |
 
 ---
 
@@ -51,6 +52,7 @@ To build a strong foundation in web development, practice every single day, and 
 - [x] Basic HTML & Semantic Tags
 - [x] HTML Audio & Video
 - [x] Basic CSS Spacing & Typography (Margin, Padding, Font Size)
+- [x] CSS Color Theory (RGB, RGBA, HSL) & Box Shadows
 - [x] CSS Pseudo-classes & Pseudo-elements (Hover, Target, Before, After, Not)
 - [ ] CSS Layouts (Flexbox, Grid)
 - [ ] Responsive Web Design
