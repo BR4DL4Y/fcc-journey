@@ -1,23 +1,21 @@
-# A feeling we ALL know too well... 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/7b/c9/55/7bc955ed5306352bd261307109258e44.gif" width="100%" alt="Banner" />
+</p>
 
-The other day, I sat down and told myself: *"Let's finish this test on freeCodeCamp."* 
+# Feature Selection — A feeling we ALL felt, I'm sure. 
 
-I read the requirements, wrote the code, passed all the tests, and finally finished... 
+I sat down, like any other day. I was doing nothing, so I said to myself, "Let's finish this test on **freeCodeCamp**." So I started reading, coding, and eventually I finished...
 
-<img width="395" height="207" alt="Initial attempt" src="https://github.com/user-attachments/assets/67845142-d081-402b-b199-8c3fd6fb121e" />
+<img width="100%" alt="Initial attempt" src="https://github.com/user-attachments/assets/67845142-d081-402b-b199-8c3fd6fb121e" />
 
-...but when I stood back to look at the result, I felt completely disappointed. 
+This was what I did. I stood there looking at what I had created, feeling weird. I thought, *"All this time learning, just to not be able to make a basic feature selection page look appealing?"*
 
-I thought: *"All this time learning, and I can't even make a basic feature selection look appealing?"*
+I felt completely disappointed. I was hungry, so I ate, took a break, and said to myself: *"I'll do it again."*
 
-I was frustrated. So I stepped away, ate something, cleared my mind, and decided: **"I'm doing this again."**
+And then this happened:
 
-And this was the result:
-
-<img width="1066" height="603" alt="Final design" src="https://github.com/user-attachments/assets/a7a059e6-47d6-4dc1-b7d9-0d0b3ff6d94c" />
+<img width="100%" alt="Final design" src="https://github.com/user-attachments/assets/a7a059e6-47d6-4dc1-b7d9-0d0b3ff6d94c" />
 
 I built this. The same person who, an hour earlier, thought they couldn't do it.
 
-**If I could do it, so can you. Never give up on a second try!** 
-
-<img src="https://i.pinimg.com/originals/7b/c9/55/7bc955ed5306352bd261307109258e44.gif" width="100%">
+**If I could do it, so can you. Never give up on a second try!**
