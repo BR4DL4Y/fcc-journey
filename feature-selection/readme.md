@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/7b/c9/55/7bc955ed5306352bd261307109258e44.gif" width="90%" alt="Banner" />
+  <img src="https://i.pinimg.com/originals/7b/c9/55/7bc955ed5306352bd261307109258e44.gif" width="60%" alt="Banner" />
 </p>
 
 # Feature Selection — A feeling we ALL felt, I'm sure. 
