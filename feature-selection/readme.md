@@ -20,4 +20,4 @@ I built this. The same person who, an hour earlier, thought they couldn't do it.
 
 **If I could do it, so can you. Never give up on a second try!** 
 
-<img src="https://i.pinimg.com/originals/7b/c9/55/7bc955ed5306352bd261307109258e44.gif" lazy>
+<img src="https://i.pinimg.com/originals/7b/c9/55/7bc955ed5306352bd261307109258e44.gif" width="100%">
