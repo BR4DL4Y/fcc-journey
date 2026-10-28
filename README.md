@@ -46,6 +46,7 @@ To build a strong foundation in web development, practice every single day, and 
 | **🎨 Colored Markers** | Mastered color theory in code by mixing colors and utilizing RGB, RGBA, and HSL values along with custom box shadows. | [View Project](https://br4dl4y.github.io/fcc-journey/colored-markers/) |
 | **📋 Registration Form** | Learned how to build complete registration forms using fieldsets, labels, radio buttons, checkboxes, file inputs, select menus, validation attributes, and custom form styling with CSS. | [View Project](https://br4dl4y.github.io/fcc-journey/registration-form/) |
 | **✨ Feature Selection** | Custom checkboxes (`appearance: none`), styling with pseudo-elements (`::after`), alignment using Flexbox (`display: flex`, `justify-content: space-between`, `gap`), and smooth transition hover effects. | [View Project](https://br4dl4y.github.io/fcc-journey/feature-selection/) |
+| **📁 Confidential Investigation** | Applied absolute positioning, CSS transforms (`rotate`), blur filters (`filter: blur()`), and Flexbox centering to create a classified document layout. | [View Project](https://br4dl4y.github.io/fcc-journey/confidential-investigation/) |
 
 ---
 
@@ -56,6 +57,7 @@ To build a strong foundation in web development, practice every single day, and 
 - [x] Basic CSS Spacing & Typography (Margin, Padding, Font Size)
 - [x] CSS Color Theory (RGB, RGBA, HSL) & Box Shadows
 - [x] CSS Pseudo-classes & Pseudo-elements (Hover, Target, Before, After, Not)
+- [x] CSS Positioning, Transforms & Filters (Absolute, Rotate, Blur)
 - [ ] CSS Layouts (Flexbox, Grid)
 - [ ] Responsive Web Design
 - [ ] JavaScript Fundamentals
