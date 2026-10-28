@@ -1,0 +1,62 @@
+body {
+  background-color: #F4EBE8;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+#email {
+  padding: 50px;
+  margin-top: 50px;
+  width: 800px;
+  border: 2px solid #000;
+  box-sizing: border-box;
+  background-color: #fff;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 0 12px rgb(0, 0, 0);
+}
+#email p {
+  border-bottom: 1px dashed #ccc;
+  padding-bottom: 15px;
+  margin-bottom: 25px;
+  color: #000000;
+  white-space: pre-line;
+}
+
+#confidential {
+  position: absolute;
+  top: 80px;
+  right: 40px;
+  padding: 10px 20px;
+  border: 3px solid #d93838;
+  color: #d93838;
+  font-weight: bold;
+  font-size: 1.5rem;
+  transform: rotate(25deg);
+  opacity: 0.5;
+  pointer-events: none;
+}
+
+#top-secret {
+  position: absolute;
+  bottom: 100px;
+  left: 50px;
+  padding: 8px 16px;
+  border: 3px solid #d93838;
+  color: #d93838;
+  font-weight: bold;
+  font-size: 1.5rem;
+  transform: rotate(-35deg);
+  opacity: 0.5;
+  pointer-events: none;
+}
+
+.blurred {
+  filter: blur(3px);
+  background-color: #000;
+  transition: filter 0.3s ease;
+  user-select: none;
+}
+
