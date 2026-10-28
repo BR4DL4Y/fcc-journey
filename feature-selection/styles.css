@@ -20,7 +20,7 @@ body {
 }
 
 .feature-card:hover {
-  box-shadow: 0 0 14px rgb(132, 9, 9);
+  box-shadow: 0 0 14px rgb(18, 17, 17);
 }
 
 input[type="checkbox"] {
@@ -31,7 +31,7 @@ input[type="checkbox"] {
   border-radius: 6px;
   border-color: #BBADFF;
   border-width: 10px;
-  border-style: solid; 
+  border-style: solid;
   
 }
 
@@ -43,7 +43,11 @@ input[type=checkbox]:checked {
 
 input[type="checkbox"]:checked::after {
   content: "✓";
-  color: green;
+  color: white;
+  font-weight: bold;
+  display: block;
+  line-height: 1.5;
+  text-align: center;
 }
 
 div {
