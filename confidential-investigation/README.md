@@ -1,3 +1,3 @@
-# Confidential Security Report (Interactive Classified Report)
+# Confidential Investigation
 
-An interactive, stylish "classified / top-secret report" template designed with HTML5 and CSS3. It features a clean, document-like design with security watermarks (`CONFIDENTIAL` / `TOP SECRET`) and interactive blurred elements (`blurred`).
+Today's project is an investigation using `filter: blur(2px)`, `transform`, `scale`, `rotate`, and other properties, applying what I learned in previous lessons such as margin, padding, color, and much more. 
