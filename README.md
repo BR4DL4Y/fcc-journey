@@ -47,6 +47,7 @@ To build a strong foundation in web development, practice every single day, and 
 | **📋 Registration Form** | Learned how to build complete registration forms using fieldsets, labels, radio buttons, checkboxes, file inputs, select menus, validation attributes, and custom form styling with CSS. | [View Project](https://br4dl4y.github.io/fcc-journey/registration-form/) |
 | **✨ Feature Selection** | Custom checkboxes (`appearance: none`), styling with pseudo-elements (`::after`), alignment using Flexbox (`display: flex`, `justify-content: space-between`, `gap`), and smooth transition hover effects. | [View Project](https://br4dl4y.github.io/fcc-journey/feature-selection/) |
 | **📁 Confidential Investigation** | Applied absolute positioning, CSS transforms (`rotate`), blur filters (`filter: blur()`), and Flexbox centering to create a classified document layout. | [View Project](https://br4dl4y.github.io/fcc-journey/confidential-investigation/) |
+| **📸 Photo Gallery** | Built a responsive image grid using CSS Flexbox (`flex-wrap`), modern box sizing (`border-box`), image scaling (`object-fit: cover`), and advanced alignment tricks with pseudo-elements (`::after`). | [View Project](https://br4dl4y.github.io/fcc-journey/photo-gallery/) |
 
 ---
 
@@ -58,7 +59,7 @@ To build a strong foundation in web development, practice every single day, and 
 - [x] CSS Color Theory (RGB, RGBA, HSL) & Box Shadows
 - [x] CSS Pseudo-classes & Pseudo-elements (Hover, Target, Before, After, Not)
 - [x] CSS Positioning, Transforms & Filters (Absolute, Rotate, Blur)
-- [ ] CSS Layouts (Flexbox, Grid)
+- [x] CSS Layouts (Flexbox, Grid)
 - [ ] Responsive Web Design
 - [ ] JavaScript Fundamentals
 
