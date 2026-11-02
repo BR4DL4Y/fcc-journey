@@ -1,6 +1,6 @@
 # 🎨 Colorful Boxes (Flexbox Practice)
 
-This repository is part of my web development learning path (`fcc-journey`). The goal of this exercise is to experiment with and understand how flex containers and flex items work in CSS.
+The goal of this exercise is to experiment with and understand how flex containers and flex items work in CSS.
 
 ## Learning Notes & Reflections
 
