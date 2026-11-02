@@ -48,6 +48,7 @@ To build a strong foundation in web development, practice every single day, and 
 | **✨ Feature Selection** | Custom checkboxes (`appearance: none`), styling with pseudo-elements (`::after`), alignment using Flexbox (`display: flex`, `justify-content: space-between`, `gap`), and smooth transition hover effects. | [View Project](https://br4dl4y.github.io/fcc-journey/feature-selection/) |
 | **📁 Confidential Investigation** | Applied absolute positioning, CSS transforms (`rotate`), blur filters (`filter: blur()`), and Flexbox centering to create a classified document layout. | [View Project](https://br4dl4y.github.io/fcc-journey/confidential-investigation/) |
 | **📸 Photo Gallery** | Built a responsive image grid using CSS Flexbox (`flex-wrap`), modern box sizing (`border-box`), image scaling (`object-fit: cover`), and advanced alignment tricks with pseudo-elements (`::after`). | [View Project](https://br4dl4y.github.io/fcc-journey/photo-gallery/) |
+| **🎨 Colored Boxes** | Practicando las bases de Flexbox con múltiples cajas, ordenamiento (`order`), crecimiento (`flex-grow`) y distribución de líneas con `align-content`. | [View Project](https://br4dl4y.github.io/fcc-journey/colorful-boxes/) |
 
 ---
 
