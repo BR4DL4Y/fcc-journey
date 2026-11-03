@@ -17,11 +17,6 @@ Instead of just copying a template, I implemented:
 * **Mastering Flexbox Alignment:** Understanding how to control space inside nested containers without relying on ugly hacks or rigid margins.
 * **The `margin-top: auto` Trick:** Learning how flex items can absorb leftover space dynamically to push elements (like buttons) precisely where you want them.
 * **CSS Positioning Context:** Realizing why `position: relative` on a parent element is absolute gold when floating child elements like badges.
-
-## Live Demo
-Check out the live project here: [Insert Link to CodeSandbox / GitHub Pages / freeCodeCamp Preview]
-
 ---
-
 ##  Author
 Built with courage and lots of brain cells by **Bradley.**
