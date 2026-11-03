@@ -2,7 +2,8 @@
 
 > A fully responsive, modern pricing plans component built from scratch with semantic HTML5 and advanced CSS Flexbox. Developed as part of [freeCodeCamp](https://www.freecodecamp.org/), but elevated far beyond the basic requirements with custom features and a polished UI.
 
-![Project Preview](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2e257b6c-c11f-4db6-aa11-619c1420c619"/> ) <!-- Puedes poner una captura de pantalla aquí si quieres -->
+![Project Preview](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0dea7cfd-4fb5-4212-a0b3-2134ba1b7270" />
+) <!-- Puedes poner una captura de pantalla aquí si quieres -->
 
 ---
 
