@@ -13,14 +13,10 @@ Instead of just copying a template, I implemented:
 * **Absolute Positioning (`position: absolute`):** Designed a custom floating "Best Seller" badge that wraps around the card border cleanly.
 * **Custom Feature Lists:** Structured semantic lists (`<ul>` / `<li>`) featuring distinct states for included features (`✓`) and excluded ones (`✖` — including a little developer humor).
 
----
-
-## 🧠 What I Learned (The Hardest & Most Rewarding Part)
+##  What I Learned (The Hardest & Most Rewarding Part)
 * **Mastering Flexbox Alignment:** Understanding how to control space inside nested containers without relying on ugly hacks or rigid margins.
 * **The `margin-top: auto` Trick:** Learning how flex items can absorb leftover space dynamically to push elements (like buttons) precisely where you want them.
 * **CSS Positioning Context:** Realizing why `position: relative` on a parent element is absolute gold when floating child elements like badges.
-
----
 
 ## Live Demo
 Check out the live project here: [Insert Link to CodeSandbox / GitHub Pages / freeCodeCamp Preview]
