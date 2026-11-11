@@ -10,19 +10,21 @@ html {
 
 body {
   font-family: 'Clarity City', sans-serif;
-  background-color: #2B303A;
+  background-color: #1a2421; 
   margin: 15px;
   padding: 12px;
 }
 
 .newspaper {
-  background-color: #ffffff;
+  background-color: #fdfbf7; 
+  color: #2c3e35; 
   font-size: 16px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Clarity City', sans-serif; 
   border-radius: 12px;
   margin: 0 auto;
   max-width: 600px;
   padding: 30px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3); 
 }
 
 .name {
@@ -30,12 +32,15 @@ body {
   font-size: 2rem;
   text-transform: uppercase;
   text-align: center;
-  border-bottom: 2px solid #000000; 
+  color: #1b3b2b; 
+  border-bottom: 2px solid #c2a642; 
+  padding-bottom: 8px;
 }
 
 .date {
-  font-size: 1.3em;
+  font-size: 1.1em;
   font-style: italic;
+  color: #606c38; 
 }
 
 .headline { 
@@ -43,31 +48,42 @@ body {
   font-size: 2em;
   font-weight: bold;
   text-align: left;
-  border-bottom: 1px solid #000000;
+  color: #2b2d42;
+  border-bottom: 1px solid #d4a373; 
+  padding-bottom: 6px;
 }
 
 .sub-headline { 
-  font-weight: 100;
-  font-size: 1.5em;
+  font-weight: 300;
+  font-size: 1.3em;
   font-style: italic;
   text-align: left;
+  color: #4a5759;
 }
 
 .author {
   text-transform: uppercase;
-  font-size: 1.2em;
+  font-size: 1.1em;
   font-weight: bold;
   text-align: left;
+  color: #386641; 
+}
+
+.hyrule {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin: 15px 0;
 }
 
 .text {
   text-indent: 20px;
-  line-height: 2em;
+  line-height: 1.6em; 
   text-align: left;
 }
 
 .text::first-letter {
-  font-size: 2em;
-  color: #4caa19;
+  font-size: 2.2em;
+  color: #bc6c25; /
   font-weight: bold;
 }
