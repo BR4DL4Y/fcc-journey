@@ -6,6 +6,6 @@ This special edition simulates a Hyrule newspaper front page covering the antici
 
 ##  Article Content
 
-* **Newspaper:** The Hyrule Times[cite: 1]
-* **Headline:** Hero of Time Returns in Stunning New Remake![cite: 1]
+* **Newspaper:** The Hyrule Times
+* **Headline:** Hero of Time Returns in Stunning New Remake!
 * **Topic:** Launch sales records and graphical upgrades featuring Latin American Spanish voice acting.
