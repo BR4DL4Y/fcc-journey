@@ -1,4 +1,4 @@
-# My freeCodeCamp Journey
+# 📰 My freeCodeCamp Journey
 
 <p align="center">
   <img src="https://media1.tenor.com/m/i1esUOs8UZwAAAAC/bleach-thousand-year-blood-war.gif" alt="Bleach - Goryūtenmetsu" width="540" />
@@ -52,6 +52,7 @@ To build a strong foundation in web development, practice every single day, and 
 | **💎 Pricing Plans Layout** | Built a modern SaaS pricing component featuring advanced Flexbox vertical alignment (`flex-direction: column`, `margin-top: auto`), absolute positioning for badges, semantic lists, and clean micro-interactions. | [View Project](https://br4dl4y.github.io/fcc-journey/pricing-plans/) |
 | **🃏 Playing Cards** | Built a custom playing cards layout using Flexbox column distributions, physical units (`in`), precise text rotations (`rotate`), and card suit color customization. | [View Project](https://br4dl4y.github.io/fcc-journey/playing-cards/) |
 | **🥗 Nutrition Label** | Built a precise nutrition facts label practicing Flexbox alignment (`space-between`), advanced pseudo-classes (`:not()`), and visual hierarchy using indents and custom dividers. | [View Project](https://br4dl4y.github.io/fcc-journey/nutritional-label/) |
+| **📰 Newspaper Article** | Designed a thematic editorial layout simulating a front-page gaming news article, utilizing semantic HTML5 (`<article>`), custom Google Fonts, drop caps (`::first-letter`), and editorial borders. | [View Project](https://br4dl4y.github.io/fcc-journey/newspaper-article/) |
 
 ---
 
