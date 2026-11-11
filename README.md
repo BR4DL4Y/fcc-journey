@@ -51,7 +51,7 @@ To build a strong foundation in web development, practice every single day, and 
 | **🎨 Colored Boxes** | Practicando las bases de Flexbox con múltiples cajas, ordenamiento (`order`), crecimiento (`flex-grow`) y distribución de líneas con `align-content`. | [View Project](https://br4dl4y.github.io/fcc-journey/colorful-boxes/) |
 | **💎 Pricing Plans Layout** | Built a modern SaaS pricing component featuring advanced Flexbox vertical alignment (`flex-direction: column`, `margin-top: auto`), absolute positioning for badges, semantic lists, and clean micro-interactions. | [View Project](https://br4dl4y.github.io/fcc-journey/pricing-plans/) |
 | **🃏 Playing Cards** | Built a custom playing cards layout using Flexbox column distributions, physical units (`in`), precise text rotations (`rotate`), and card suit color customization. | [View Project](https://br4dl4y.github.io/fcc-journey/playing-cards/) |
-| **🥗 Nutrition Label** | Built a precise nutrition facts label practicing Flexbox alignment (`space-between`), advanced pseudo-classes (`:not()`), and visual hierarchy using indents and custom dividers. | [View Project](https://br4dl4y.github.io/fcc-journey/nutrition-label/) |
+| **🥗 Nutrition Label** | Built a precise nutrition facts label practicing Flexbox alignment (`space-between`), advanced pseudo-classes (`:not()`), and visual hierarchy using indents and custom dividers. | [View Project](https://br4dl4y.github.io/fcc-journey/nutritional-label/) |
 
 ---
 
