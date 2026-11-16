@@ -2,6 +2,13 @@
   * {
     scroll-behavior: smooth;
   }
+  nav > ul > li {
+    transition: transform 0.1s ease-in;
+  }
+
+  nav > ul > li:hover {
+    transform: translateY(-6px);
+  }
 }
 
 body {
@@ -19,18 +26,24 @@ header {
   justify-content: space-between;
   align-items: center;
 }
+header > a {
+  display: flex;
+  align-items: center;
+}
 
 #logo {
   width: max(10rem, 18vw);
   background-color: #0a0a23;
   aspect-ratio: 35 / 4;
   padding: 0.4rem;
+  
 }
 
 h1 {
   color: #f1be32;
   font-size: min(5vw, 1.2em);
   text-align: center;
+  
 }
 
 nav {
@@ -152,6 +165,8 @@ button {
   font-size: 1.438rem;
   background: #d0d0d5;
   border: 3px solid #3b3b4f;
+  border-radius: 6px;
+  transition: background-color 0.3s ease-in;
 }
 
 footer {
@@ -185,3 +200,16 @@ address {
   margin: 6px;
   padding: 6px;
  }
+
+ select:focus,
+ textarea:focus,
+ input:focus,
+ button:focus {
+  outline: none;
+  border: 2px solid #0000dd;
+ }
+ button:hover {
+  background-color: #2a2a40;
+  color: #ffffff;
+  cursor: pointer;
+}
