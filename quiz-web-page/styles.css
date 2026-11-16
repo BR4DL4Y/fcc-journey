@@ -64,9 +64,10 @@ nav > ul {
 
 nav > ul > li {
   color: #dfdfe2;
-  margin: 0 0.2rem;
+  margin: 0 0.8rem;
   padding: 0.2rem;
   display: block;
+  border-radius: 6px;
 }
 
 nav > ul > li:hover {
