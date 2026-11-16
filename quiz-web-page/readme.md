@@ -1,4 +1,4 @@
-# Accessibility Quiz Webpage 📝
+# Accessibility Quiz Webpage 
 
 ## Key Concepts Learned
 
@@ -11,7 +11,7 @@
   * Logical properties (`padding-inline-start`, `margin-block`) and direct child selectors (`>`) for clean navigation styling.
   * Using pseudo-elements (`::before`) to inject visual prefixes without cluttering screen reader output.
 
-## 🛠️ Customizations & Improvements
+## Customizations & Improvements
 
 Beyond the base freeCodeCamp steps, I started tweaking the UI in CodeSandbox to improve spacing and usability:
 * Added custom `margin: 6px;` and `padding: 6px;` to `select` and `textarea` elements so the form fields have better breathing room.
