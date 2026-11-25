@@ -54,6 +54,7 @@ To build a strong foundation in web development, practice every single day, and 
 | **🥗 Nutrition Label** | Built a precise nutrition facts label practicing Flexbox alignment (`space-between`), advanced pseudo-classes (`:not()`), and visual hierarchy using indents and custom dividers. | [View Project](https://br4dl4y.github.io/fcc-journey/nutritional-label/) |
 | **📰 Newspaper Article** | Designed a thematic editorial layout simulating a front-page gaming news article, utilizing semantic HTML5 (`<article>`), custom Google Fonts, drop caps (`::first-letter`), and editorial borders. | [View Project](https://br4dl4y.github.io/fcc-journey/newspaper-article/) |
 | **♿ Accessibility Quiz** | Built an accessible HTML/CSS quiz practicing screen-reader-only utilities (`.sr-only`), motion-safe animations (`prefers-reduced-motion`), ARIA landmarks, dynamic sizing (`min()`, `max()`), and custom `:focus` states. | [View Project](https://br4dl4y.github.io/fcc-journey/quiz-web-page/) |
+| **🐉 Tribute Page** | Built a Mortal Kombat tribute page with a dark theme, responsive image sizing (`max-width`, `display: block`, `height: auto`), `drop-shadow` and `text-shadow` effects, and clean typography/spacing. | [View Project](https://br4dl4y.github.io/fcc-journey/tribute-page/) |
 
 ---
 
@@ -67,7 +68,7 @@ To build a strong foundation in web development, practice every single day, and 
 - [x] CSS Positioning, Transforms & Filters (Absolute, Rotate, Blur)
 - [x] CSS Layouts (Flexbox, Grid)
 - [x] Web Accessibility (ARIA, `.sr-only`, `prefers-reduced-motion`)
-- [ ] Responsive Web Design
+- [x] Responsive Web Design
 - [ ] JavaScript Fundamentals
 
 ---
